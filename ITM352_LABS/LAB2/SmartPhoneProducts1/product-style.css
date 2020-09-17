@@ -1,40 +1,29 @@
-/* General */ 
- 
+/* General */  
 body {
     width: 800px;
     margin: 0 auto;
  }
-  
- /* Typography */ 
-  
+ /* Typography */  
  h1 {
     text-align: center;   
- }
-  
+ } 
  h2 {
     text-align: center;
     color: pink;
  }
-  
- /* block styling */ 
-  
+  /* block styling */ 
  body > div {
     border: 5px solid palevioletred;
     display: flex;
  }
-  
- /* Form styling */ 
-  
+ /* Form styling */  
  main {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
-    background: url(images/phone_globe.jpg) no-repeat 50% center;
-    
+    background: url(images/phone_globe.jpg) no-repeat 50% center;  
  }
-  
- /* Styling the products display */
-  
+ /* Styling the products display */ 
  .item img {
     width: 200px;
     height: 200px;
