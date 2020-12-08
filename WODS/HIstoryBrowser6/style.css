@@ -1,7 +1,6 @@
 h1 {
     font-family: 'Oswald', sans-serif;
 }
-
 h2 {
     font-family: 'Oswald', sans-serif;
 }
@@ -14,18 +13,17 @@ ul {
 
 li {
     display: inline;
-
 }
 
 #navbar a {
-    margin-left: 75px;
-    margin-right: 75px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 body {
-    color: white;
     font-family: 'Open-sans', sans-serif;
-    margin: 10px, 50px, 10px, 50px;
+    color: yellow;
+    margin: 10px 50px 10px 50px;
     width: 950px;
     background-color: black;
 }
@@ -34,3 +32,4 @@ img {
     float: left;
     margin-right: 10px;
 }
+
